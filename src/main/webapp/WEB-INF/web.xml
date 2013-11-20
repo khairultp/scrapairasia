@@ -4,7 +4,7 @@
 	      http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
 	      version="2.5">	
 
-	<display-name>Counter Web Application</display-name>
+	<display-name>WebScrapper</display-name>	
     
 	<servlet>
 		<servlet-name>mvc-dispatcher</servlet-name>
@@ -14,7 +14,7 @@
 	
 	<servlet-mapping>
 		<servlet-name>mvc-dispatcher</servlet-name>
-		<url-pattern>/</url-pattern>
+		<url-pattern>/cwp/*</url-pattern>
 	</servlet-mapping>
 	
 	<context-param>
