@@ -1,0 +1,1 @@
+var ebReportingImg_0 = new Image();ebReportingImg_0.src='http://ib.adnxs.com/seg?add=309480&t=2';
